@@ -18,22 +18,22 @@
     "coverage": "nyc --reporter=text mocha"
   },
   "dependencies": {
-    "async": "^3.0.0",
+    "async": "^3.2.3",
     "byline": "^5.0.0",
-    "node-hid": "^0.7.7",
-    "smart-buffer": "^4.0.2",
+    "node-hid": "^2.1.1",
+    "smart-buffer": "^4.2.0",
     "stream-buffers": "^3.0.2"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "eslint": "^5.16.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.17.2",
-    "mocha": "^6.1.4",
+    "chai": "^4.3.6",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "mocha": "^9.2.1",
     "mockery": "^2.1.0",
-    "nyc": "^14.1.1",
-    "remark-cli": "^6.0.1",
-    "remark-preset-lint-recommended": "^3.0.2",
-    "sinon": "^7.3.2"
+    "nyc": "^15.1.0",
+    "remark-cli": "^10.0.1",
+    "remark-preset-lint-recommended": "^6.1.2",
+    "sinon": "^13.0.1"
   }
 }
