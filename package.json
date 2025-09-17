@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashleymcdonald/hidlisten.git"
+    "url": "git+https://github.com/ashleymcdonald/hid-listen.git"
   },
-  "homepage": "https://github.com/ashleymcdonald/hidlisten#readme",
+  "homepage": "https://github.com/ashleymcdonald/hid-listen#readme",
   "keywords": [
     "hid_listen",
     "hid",
@@ -42,7 +42,7 @@
     "sinon": "^13.0.1"
   },
   "bugs": {
-    "url": "https://github.com/ashleymcdonald/hidlisten/issues"
+    "url": "https://github.com/ashleymcdonald/hid-listen/issues"
   },
   "directories": {
     "lib": "lib",
